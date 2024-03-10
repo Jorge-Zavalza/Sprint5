@@ -6,3 +6,6 @@ Este proyecto consiste en una aplicación web desarrollada con Streamlit que pro
 You can now view your Streamlit app in your browser.
   Network URL: http://10.214.238.209:8501
   External URL: http://44.226.122.3:8501
+
+  Render Link
+  https://sprint5-xxo2.onrender.com
